@@ -4,7 +4,7 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
 
 ### CSS Flex
 
-- [] CSS Flex Basics
+- [] CSS Flex Basic
 - [x] Main Axis and Cross Axis
 - [x] Flex Direction
 - [x] Flex Wrap
